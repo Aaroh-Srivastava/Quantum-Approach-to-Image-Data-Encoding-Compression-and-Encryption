@@ -1,0 +1,2 @@
+# Quantum-Approach-to-Image-Data-Encoding-Compression-and-Encryption
+The need for quantum compression and encryption arises from the rapidly growing volume of digital data and the increasing demand for secure, efficient transmission and storage in the era of quantum computing. Traditional methods struggle to handle high-dimensional data, such as images, video, and sensor information, with optimal speed and security.
